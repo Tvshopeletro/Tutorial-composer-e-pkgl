@@ -1,0 +1,17 @@
+{
+    "name": "evandro/tutorial-composer-e-pkgl",
+    "description": "tutorial composer e publicar no package list",
+    "type": "composer-plugin",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Evandro\\TutorialComposerEPkgl\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kinsta.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
