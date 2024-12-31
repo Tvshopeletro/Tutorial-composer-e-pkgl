@@ -2,6 +2,7 @@ Como criar e publicar pacotes composer e depencias no Git e PkgL.
 Visite -- https://kinsta.com/pt/blog/criar-pacote-composer
 ------------------------------------------------------------------
 Sobre este Código......
+
 Esse código usa a classe TemperatureConverter para converter as temperaturas de 20 Celsius e 68 Fahrenheit e gerar os resultados. O arquivo autoloader.php importado foi criado pelo Composer para carregar todas as dependências de que você precisa. Isso se encarrega de carregar a classe automaticamente quando necessário.
 
 Por fim, execute este código no seu terminal:
